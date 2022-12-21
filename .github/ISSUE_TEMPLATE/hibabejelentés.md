@@ -24,9 +24,10 @@ Ezekkel a lépésekkel:
 Ha tudsz akkor csatolj képernyőképet, hogy megkönnyítsd a munkánkat.
 
 **A következő információk nagyon fontosak:**
- - Platform: [pl. iOS]
-- OS verzió [pl. 15]
- - App Verzió [A Beállítások képernyő alján láthatod]
+- OS verzió [pl. iOS 15]
+- Készülék [pl. iPhone 13]
+- App Verzió [A Beállítások képernyő alján láthatod]
+- Internet [pl.: WIFI, 4G]
 
 
 **Bármi más amivel kiegészítenéd**
